@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify-cors": "6.0.2",
+    "fastify": "3.20.0",
+    "fastify-http-proxy": "6.1.0"
+  }
+}
